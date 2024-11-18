@@ -14,7 +14,6 @@
 
 <p>Essa aplicação foi feita para revisar alguns conceitos que estudei ao longo de um curso gratuito. Para mais informações:</p>
 
-<br/>
 
 ### Contato:
 📩 dev.gabriel.teixeira@gmail.com
